@@ -1,21 +1,14 @@
-import javax.security.auth.login.AccountException
-
-// ZADANIE 1
-/*def a = 1
+//ZADANIE 1
+def a = 1
 def b = 2
-
 println a+b
 println a.plus(b)
 
 def s1 = "hello"
 def s2 = ", world!"
-
 println s1.plus(s2)
 
-*/
-
 //ZADANIE 2
-/*
 class Account {
     BigDecimal balance
     Account plus(Account other){
@@ -24,9 +17,7 @@ class Account {
     String toString(){
         "Account Balance : $balance"
     }
-
 }
-
 Account savings = new Account(balance:100.00)
 Account checking = new Account(balance:500.00)
 
@@ -34,7 +25,7 @@ println savings
 println checking
 println savings + checking
 
-*/
+
 //Zadanie 3
 
 @groovy.transform.ToString

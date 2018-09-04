@@ -1,3 +1,5 @@
+//Zmienne i ich klasy
+
 byte b = 10
 println b.getClass().getName()
 
