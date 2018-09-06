@@ -1,3 +1,4 @@
+/*
 // How to use regular expressions in groovy
 String slashy = /a\b/
 String url = $/http://google.pl/groovy/$
@@ -21,3 +22,4 @@ def pattern = ~/malinowy/
 
 text = text.replaceFirst(pattern,"Truskawkowy") // <-- zmienia wyszukaną wartość
 println text
+*/

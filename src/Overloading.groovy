@@ -1,3 +1,4 @@
+/*
 //ZADANIE 1
 def a = 1
 def b = 2
@@ -28,7 +29,8 @@ println savings + checking
 
 //Zadanie 3
 
-@groovy.transform.ToString
+//@groovy.transform.ToString
+/*
 class Account {
 
     BigDecimal balance = 0.0
@@ -60,3 +62,4 @@ println savings
 BigDecimal total = checking + savings
 println total
 
+*/
