@@ -1,3 +1,4 @@
+package com.paczka
 //ex 1
 def tydzien = ["niedziela","poniedzialek", "wtorek", "sroda", "czwartek", "piatek", "sobota"]
 println tydzien

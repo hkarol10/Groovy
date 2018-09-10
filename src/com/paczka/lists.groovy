@@ -1,3 +1,5 @@
+package com.paczka
+
 def nums = [1,2,3,4,51,23,5] // <-- zwykla lista
 println nums
 println nums.class.name

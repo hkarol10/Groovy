@@ -1,3 +1,4 @@
+package com.paczka
 // How to use collections in groovy
 
 

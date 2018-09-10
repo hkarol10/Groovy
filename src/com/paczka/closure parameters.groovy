@@ -1,3 +1,5 @@
+package com.paczka
+
 /&
 def foo = { name
     println it

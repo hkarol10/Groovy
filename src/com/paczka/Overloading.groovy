@@ -1,3 +1,4 @@
+package com.paczka
 /*
 //ZADANIE 1
 def a = 1

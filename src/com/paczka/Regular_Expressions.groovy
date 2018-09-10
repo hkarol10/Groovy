@@ -1,3 +1,4 @@
+package com.paczka
 /*
 // How to use regular expressions in groovy
 String slashy = /a\b/

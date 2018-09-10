@@ -1,3 +1,4 @@
+package com.paczka
 
 def map = [:]
 println map.getClass().getName()

@@ -1,3 +1,5 @@
+package com.paczka
+
 def c = {}
 
 println c.class.name

@@ -1,3 +1,4 @@
+package com.paczka
 // Stringi w Groovym
 
 

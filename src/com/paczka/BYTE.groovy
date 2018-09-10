@@ -1,3 +1,4 @@
+package com.paczka
 //Zmienne i ich klasy
 
 byte b = 10
