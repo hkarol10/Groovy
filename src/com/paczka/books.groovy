@@ -1,5 +1,5 @@
 package com.paczka
-*/
+/*
 @ToString(includeNames = true)
 
 class Book {
